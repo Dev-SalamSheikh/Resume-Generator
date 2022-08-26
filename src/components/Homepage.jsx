@@ -43,8 +43,8 @@ const Homepage = () => {
     },
     number: "",
     email: "",
-    github: "",
-    linkedin: "",
+    github: "https://github.com/",
+    linkedin: "https://linkedin.com/",
   });
 
   const navigate = useNavigate();
